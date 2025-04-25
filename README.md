@@ -1,5 +1,8 @@
 Movie Genre Classification Project
 
+Here the Google Drive Link of The Dataset that is using in this ML task project :
+https://drive.google.com/drive/folders/1vqiEURmsfoSAudos3YO-niLrMonIPV3S?usp=drive_link
+
 This project aims to develop a genre classification model for movie plot summaries using natural language processing techniques. Two different approaches are explored: one using traditional machine learning algorithms and the other using transformer-based models with BERT base uncased architecture.
 
 Description
@@ -26,6 +29,5 @@ scikit-learn
 Transformers
 TensorFlow or PyTorch (depending on the backend used by Transformers)
 
-Here the Google Drive Link of The Dataset that is using in this ML task project :
-https://drive.google.com/drive/folders/1vqiEURmsfoSAudos3YO-niLrMonIPV3S?usp=drive_link
+
 
